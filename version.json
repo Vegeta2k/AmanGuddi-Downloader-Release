@@ -1,14 +1,18 @@
 {
-  "version": "0.1.0",
-  "releaseName": "Sleeping Guddi v0.2.0 - High Performance Update",
+  "version": "0.2.0",
+  "releaseName": "Sleeping Guddi v0.2.0 - High Performance & Library Update",
   "releaseDate": "2026-09-06",
-  "announcement": "Welcome to Sleeping Guddi v0.2.0! New features and improvements are now active.",
+  "announcement": "Sleeping Guddi v0.2.0 is live! Featuring 5x faster parallel downloads, instant re-analysis cache, a downloads library drawer, and automatic MP3 album art embedding.",
   "features": [
-    "5-Layer Anti-Bot Shield: Eliminates YouTube GVS PO-Token and 403 chunk blocks permanently",
-    "Node.js JavaScript Challenge Solver: Automatically unscrambles dynamic player signatures",
-    "Offscreen Chromium Visitor Attestation: Native visitor token generation without plugins",
-    "In-App YouTube Account Session: 1-click isolated login to unlock 4K HDR original streams",
-    "Direct Feature Updates: Developers can now push release notes and new features instantly",
+    "5x Faster Parallel Downloads: Multi-fragment engine accelerates video and audio downloads up to 35+ MB/s",
+    "Instant 0ms Re-Analysis: In-memory cache delivers zero wait time on repeat links",
+    "Sub-Second Merging: Direct FFmpeg stream copy without re-encoding frames",
+    "Play & Show in Folder: 1-click media playback and File Explorer access for saved files",
+    "Auto MP3 Album Art & Tags: High-res YouTube cover art and ID3 metadata embedded into audio files",
+    "Downloads Library Drawer: Slide-over history panel to manage, play, and locate your media",
+    "Smart Clipboard Auto-Detect: Instant 1-click prompt to paste and analyze copied YouTube links",
+    "SponsorBlock Integration: Automatically skip sponsored segments and intros",
+    "Crisp Windows Icon: Custom Sleeping Guddi icon now displays cleanly on all Windows taskbars and shortcuts"
   ],
   "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
