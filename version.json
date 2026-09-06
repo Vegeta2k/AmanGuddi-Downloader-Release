@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "releaseName": "Sleeping Guddi v0.1.0 - Anti-Bot & High-Speed Engine",
+  "releaseDate": "2026-09-06",
+  "announcement": "Welcome to Sleeping Guddi! 5-layer anti-bot protection and auto-healing are now active.",
+  "features": [
+    "5-Layer Anti-Bot Shield: Eliminates YouTube GVS PO-Token and 403 chunk blocks permanently",
+    "Node.js JavaScript Challenge Solver: Automatically unscrambles dynamic player signatures",
+    "Offscreen Chromium Visitor Attestation: Native visitor token generation without plugins",
+    "In-App YouTube Account Session: 1-click isolated login to unlock 4K HDR original streams",
+    "Direct Feature Updates: Developers can now push release notes and new features instantly"
+  ],
+  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest",
+  "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
+}
