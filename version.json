@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "releaseName": "Sleeping Guddi v0.2.0 - High Performance Update",
   "releaseDate": "2026-09-06",
   "announcement": "Welcome to Sleeping Guddi v0.2.0! New features and improvements are now active.",
@@ -9,6 +9,7 @@
     "Offscreen Chromium Visitor Attestation: Native visitor token generation without plugins",
     "In-App YouTube Account Session: 1-click isolated login to unlock 4K HDR original streams",
     "Direct Feature Updates: Developers can now push release notes and new features instantly",
+    "demo"
   ],
   "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
