@@ -1,16 +1,15 @@
 {
   "version": "0.3.0",
-  "releaseName": "Sleeping Guddi v0.3.0 - The Waveform & Studio Update",
+  "releaseName": "Sleeping Guddi v0.3.0",
   "releaseDate": "2026-09-08",
-  "announcement": "Sleeping Guddi v0.3.0 is live! Featuring the all-new Built-in Media Player, interactive Waveform Studio with vinyl turntable animations, 3D card tilt, and interactive road trip memories.",
+  "announcement": "Sleeping Guddi v0.3.0 is here with a built-in media player, live audio visualizers, and interactive road trip memories!",
   "features": [
-    "Built-in Media Player: Play and scrub your downloaded music & videos directly inside the app with zero external player needed",
-    "Waveform Studio & Vinyl Turntable: Real-time soundwave spectrum visualizers, floating Starlight particles, and an animated turntable tonearm that drops the needle when music plays",
-    "Interactive 3D Video Cards: Dynamic perspective tilt and specular glare reflections that follow your cursor",
-    "Road Trip Photo Gallery: Clickable photo switcher between Solo Sleeping Guddi and The Gang in the Car, complete with floating heart bursts on tap",
-    "Instant Seeking & Streaming: Silky-smooth HTTP 206 streaming with zero latency, buffer lag, or position snap-backs",
-    "Auto MP3 ID3 Tags & Album Art: Automatically embeds artist, title, album, and high-resolution cover art into downloaded MP3s",
-    "Anti-Bot Session Shield: Built-in YouTube cookies manager and visitor token attestation to bypass 403 blocks"
+    "Built-in Media Player: Play music and videos directly in the app",
+    "Audio Visualizers: Spectrum bars, soundwaves, and vinyl turntable animations",
+    "3D Video Cards: Interactive card tilt and gloss reflections",
+    "Road Trip Gallery: Switch photos and tap for floating hearts",
+    "Smooth Scrubbing: Instant audio seeking with zero lag",
+    "Auto Cover Art: Adds high-res album art and tags to MP3s"
   ],
   "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/0.3.0/Sleeping.Guddi.Setup.0.3.0.exe",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
