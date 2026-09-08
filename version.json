@@ -1,16 +1,15 @@
 {
-  "version": "0.3.0",
-  "releaseName": "Sleeping Guddi v0.3.0",
+  "version": "0.3.1",
+  "releaseName": "Sleeping Guddi v0.3.1",
   "releaseDate": "2026-09-08",
-  "announcement": "Sleeping Guddi v0.3.0 is here with a built-in media player, live audio visualizers, and interactive road trip memories!",
+  "announcement": "Sleeping Guddi v0.3.1 brings fluid 60fps animations, Theater View video fixes, and real-time library synchronization!",
   "features": [
-    "Built-in Media Player: Play music and videos directly in the app",
-    "Audio Visualizers: Spectrum bars, soundwaves, and vinyl turntable animations",
-    "3D Video Cards: Interactive card tilt and gloss reflections",
-    "Road Trip Gallery: Switch photos and tap for floating hearts",
-    "Smooth Scrubbing: Instant audio seeking with zero lag",
-    "Auto Cover Art: Adds high-res album art and tags to MP3s"
+    "Theater View Fix: Clean in-card video viewport with zero overflow",
+    "Library Sync: Deleting files automatically updates download status and player",
+    "Fluid Physics: Liquid scrubbing knob, floating time bubbles, and spring progress bars",
+    "Cinematic Drift: 60fps Ken-Burns camera breathing animation on road trip photos",
+    "Magnetic Controls: Soft cursor attraction and ambient glowing search focus"
   ],
-  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/0.3.0/Sleeping.Guddi.Setup.0.3.0.exe",
+  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/0.3.1/Sleeping.Guddi.Setup.0.3.1.exe",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
 }
