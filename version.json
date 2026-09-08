@@ -1,19 +1,17 @@
 {
-  "version": "0.2.0",
-  "releaseName": "Sleeping Guddi v0.2.0 - High Performance & Library Update",
-  "releaseDate": "2026-09-06",
-  "announcement": "Sleeping Guddi v0.2.0 is live! Featuring 5x faster parallel downloads, instant re-analysis cache, a downloads library drawer, and automatic MP3 album art embedding.",
+  "version": "0.3.0",
+  "releaseName": "Sleeping Guddi v0.3.0 - The Waveform & Studio Update",
+  "releaseDate": "2026-09-08",
+  "announcement": "Sleeping Guddi v0.3.0 is live! Featuring the all-new Built-in Media Player, interactive Waveform Studio with vinyl turntable animations, 3D card tilt, and interactive road trip memories.",
   "features": [
-    "5x Faster Parallel Downloads: Multi-fragment engine accelerates video and audio downloads up to 35+ MB/s",
-    "Instant 0ms Re-Analysis: In-memory cache delivers zero wait time on repeat links",
-    "Sub-Second Merging: Direct FFmpeg stream copy without re-encoding frames",
-    "Play & Show in Folder: 1-click media playback and File Explorer access for saved files",
-    "Auto MP3 Album Art & Tags: High-res YouTube cover art and ID3 metadata embedded into audio files",
-    "Downloads Library Drawer: Slide-over history panel to manage, play, and locate your media",
-    "Smart Clipboard Auto-Detect: Instant 1-click prompt to paste and analyze copied YouTube links",
-    "SponsorBlock Integration: Automatically skip sponsored segments and intros",
-    "Crisp Windows Icon: Custom Sleeping Guddi icon now displays cleanly on all Windows taskbars and shortcuts"
+    "Built-in Media Player: Play and scrub your downloaded music & videos directly inside the app with zero external player needed",
+    "Waveform Studio & Vinyl Turntable: Real-time soundwave spectrum visualizers, floating Starlight particles, and an animated turntable tonearm that drops the needle when music plays",
+    "Interactive 3D Video Cards: Dynamic perspective tilt and specular glare reflections that follow your cursor",
+    "Road Trip Photo Gallery: Clickable photo switcher between Solo Sleeping Guddi and The Gang in the Car, complete with floating heart bursts on tap",
+    "Instant Seeking & Streaming: Silky-smooth HTTP 206 streaming with zero latency, buffer lag, or position snap-backs",
+    "Auto MP3 ID3 Tags & Album Art: Automatically embeds artist, title, album, and high-resolution cover art into downloaded MP3s",
+    "Anti-Bot Session Shield: Built-in YouTube cookies manager and visitor token attestation to bypass 403 blocks"
   ],
-  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest",
+  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/0.3.0/Sleeping.Guddi.Setup.0.3.0.exe",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
 }
