@@ -1,15 +1,18 @@
 {
-  "version": "0.4.1",
-  "releaseName": "Sleeping Guddi v0.4.1 (Stability & Audio Patch)",
+  "version": "0.4.2",
+  "releaseName": "Sleeping Guddi v0.4.2",
   "releaseDate": "2026-10-24",
-  "announcement": "Sleeping Guddi v0.4.1 resolves silent audio on downloaded MP4 videos, startup white-screen issues, and improves cinematic resolution detection!",
+  "announcement": "v0.4.2 patch: playback continuity on resize, 60fps player transitions, format tab counter fix, AAC audio encoding, and illustrated empty states.",
   "features": [
-    "Audio Playback Fix: Auto-transcodes YouTube Opus audio to standard AAC LC in MP4 files for full Windows & mobile compatibility",
-    "Startup Stability: Fixed white-screen crash on startup caused by player duration initialization order",
-    "Smart Resolution Tiers: Ultrawide cinematic videos (e.g. 1920×788) now properly display as 1080p HD matching YouTube",
-    "Mini-Player Audio: Fixed Web Audio API cross-origin audio graph silencing in the built-in mini player",
-    "Reliable Downloads: Enhanced final file detection to ensure .part and thumbnail files are filtered out"
+    "Fix: Playback no longer pauses when expanding or minimizing the player",
+    "Fix: Video tab counter no longer drops to 5 when switching to Audio tab",
+    "Fix: Audio encoding forces AAC LC in merged MP4 files to prevent silent videos",
+    "Fix: Startup white screen crash caused by duration initialization order",
+    "Fix: Ultrawide videos (e.g. 1920x788) now properly labeled as 1080p HD",
+    "Fix: Audio bitrates rounded to whole numbers (e.g. 129 kbps instead of 129.488kbps)",
+    "Perf: 60fps player transition using GPU layer promotion and cubic-bezier easing",
+    "UI: Illustrated vector empty states for Queue, Library, Formats, and Search"
   ],
-  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/v0.4.1/Sleeping.Guddi.Setup.0.4.1.exe",
+  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/v0.4.2/Sleeping.Guddi.Setup.0.4.2.exe",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
 }
