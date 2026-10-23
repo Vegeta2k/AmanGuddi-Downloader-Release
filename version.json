@@ -1,15 +1,15 @@
 {
-  "version": "0.4.0",
-  "releaseName": "Sleeping Guddi v0.4.0",
-  "releaseDate": "2026-10-05",
-  "announcement": "Sleeping Guddi v0.4.0 brings YouTube Playlist batch downloading, real-time concurrent multi-download queues, and custom folder destination picker!",
+  "version": "0.4.1",
+  "releaseName": "Sleeping Guddi v0.4.1 (Stability & Audio Patch)",
+  "releaseDate": "2026-10-24",
+  "announcement": "Sleeping Guddi v0.4.1 resolves silent audio on downloaded MP4 videos, startup white-screen issues, and improves cinematic resolution detection!",
   "features": [
-    "Playlist Batch Studio: Analyze and download entire playlists with 1-click quality presets",
-    "Concurrent Queue Drawer: Live parallel multi-download tracking with instant clear controls",
-    "Custom Destination Picker: Choose your download folder with quick opening in File Explorer",
-    "Format Fallback Engine: Multi-tier fallback hierarchy prevents format unavailability errors",
-    "Isolated Temp Cookies: Eliminates Windows file-locking conflicts during parallel downloads"
+    "Audio Playback Fix: Auto-transcodes YouTube Opus audio to standard AAC LC in MP4 files for full Windows & mobile compatibility",
+    "Startup Stability: Fixed white-screen crash on startup caused by player duration initialization order",
+    "Smart Resolution Tiers: Ultrawide cinematic videos (e.g. 1920×788) now properly display as 1080p HD matching YouTube",
+    "Mini-Player Audio: Fixed Web Audio API cross-origin audio graph silencing in the built-in mini player",
+    "Reliable Downloads: Enhanced final file detection to ensure .part and thumbnail files are filtered out"
   ],
-  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/v0.4.0/Sleeping.Guddi.Setup.0.4.0.exe",
+  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/0.4.1/Sleeping.Guddi.Setup.0.4.1.exe",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
 }
