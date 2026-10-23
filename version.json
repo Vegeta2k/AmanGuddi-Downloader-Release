@@ -10,6 +10,6 @@
     "Mini-Player Audio: Fixed Web Audio API cross-origin audio graph silencing in the built-in mini player",
     "Reliable Downloads: Enhanced final file detection to ensure .part and thumbnail files are filtered out"
   ],
-  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/0.4.1/Sleeping.Guddi.Setup.0.4.1.exe",
+  "downloadUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/download/v0.4.1/Sleeping.Guddi.Setup.0.4.1.exe",
   "releasePageUrl": "https://github.com/Vegeta2k/AmanGuddi-Downloader-Release/releases/latest"
 }
